@@ -1,0 +1,29 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: lightblue;
+    font-family: arial, sans-serif;
+    text-align: center;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+}
+h2{
+    background-color: brown;
+    color: whitesmoke;
+    padding: 15px;
+    border-radius: 50%;
+    width: 800px;
+    margin: auto;
+    box-shadow: 0 5px 10px black;
+}
+table{
+    width: 100%;
+
+}
+img{
+    border-radius: 10px;
+    box-shadow: 0 3px 10px black;
+}

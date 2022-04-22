@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    
+}
+.topone a{
+    color: white;
+    text-decoration: none;
+}
+.topsecond{
+    background: white;
+}
+.topsecond a{
+    
+    text-decoration: none;
+    color: black;
+    justify-content: space-between;
+}
+.strawbery{
+    background: white url("../images/usa29r3nlazagehg_1587627327.jpeg") no-repeat scroll center;
+    padding: 12px;
+    background-size: cover;
+    color: white;
+}
